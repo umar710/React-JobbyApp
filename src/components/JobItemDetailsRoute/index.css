@@ -1,0 +1,23 @@
+.jobsItemDetails-container {
+  background-color: #000000;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.jobsItem-Card {
+  background-color: #2c364c;
+  margin: 10px;
+}
+
+.heading-similar-jobs {
+  color: #ffffff;
+}
+
+.similar-ul-list-card {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

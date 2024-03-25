@@ -1,0 +1,8 @@
+.skills-card {
+  display: flex;
+  flex-direction: row;
+}
+
+.skill-logo {
+  height: 40px;
+}
